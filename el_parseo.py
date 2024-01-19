@@ -4,6 +4,8 @@ edad = 88
 peso = 75
 
 
+print("El nombre es {}" .format(nombre))
+
 print(type(nombre))
 print(type(edad))
 print(type(peso))
